@@ -1,0 +1,2 @@
+# Static-Code-Analysis
+Static Code Analysis is an important step in creating python code that is compliant with the standards.  This hands-on lab will show you how to install pylint and run Static Code Analysis on a python program.  You will check the compliance score of that program and be able to fix common mistakes to improve the compliance score. As a refresher you can access the Python Style Guide  in a new tab:  
